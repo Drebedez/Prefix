@@ -7,7 +7,18 @@
     "discord"
   ],
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Raymond J. Aleman Delgado",
+  "files": [
+    "scripts/",
+    "index.js",
+    "LICENSE"
+  ],
   "type": "module",
-  "main": "index.js"
+  "main": "index.js",
+  "peerDependencies": {
+    "discord.js": "^14.0.0"
+  }
 }

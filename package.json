@@ -1,0 +1,13 @@
+{
+  "name": "@dm-staff/prefix",
+  "version": "1.0.0",
+  "description": "Librerira de crear y manejar prefijos para discord.",
+  "keywords": [
+    "prefix",
+    "discord"
+  ],
+  "license": "MIT",
+  "author": "Raymond J. Aleman Delgado",
+  "type": "module",
+  "main": "index.js"
+}

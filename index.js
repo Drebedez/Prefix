@@ -1,0 +1,1 @@
+export {PrefixManager as Prefix} from './scripts/Prefix.js';

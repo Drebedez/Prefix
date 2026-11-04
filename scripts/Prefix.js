@@ -1,5 +1,5 @@
-import { PrefixConstruct } from './scripts/newPrefix.js';
-import { ResolvePrefix } from './scripts/ResolvePrefix.js';
+import { PrefixConstruct } from './newPrefix.js';
+import { ResolvePrefix } from './ResolvePrefix.js';
 
 class PrefixManager{
 

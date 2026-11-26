@@ -1,6 +1,6 @@
 {
   "name": "@dm-staff/prefix",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Librerira de crear y manejar prefijos para discord.",
   "keywords": [
     "prefix",

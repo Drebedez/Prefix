@@ -91,10 +91,8 @@ class PrefixManager{
         let getPrefix = this.#prefixes.find(x => x.getName() == command[1]); 
 
         //Verificamos si se consiguio un prefijo de lo contrario interrumpir
-        if(!getPrefix){
-            message.reply(`No existe el prefijo "${command[1]}".`);
+        if(!getPrefix)
             return;
-        }
 
         /*
             Verificamos si es un prefijo de permiso administrador y si es verificamos los
